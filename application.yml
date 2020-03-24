@@ -5,11 +5,11 @@ eureka:
             
 ---            
 spring:
-  environment: lab-4-subject-1
+  name: lab-4-subject-1
 words: I,You,He,She,It
 
 ---
 spring:
-  environment: lab-4-subject
+  name: lab-4-subject
 words: ran,knew,had,saw,bought
 
