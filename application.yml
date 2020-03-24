@@ -5,11 +5,11 @@ eureka:
             
 ---            
 spring:
-  profiles: subject
+  profiles: lab-4-subject-1
 words: I,You,He,She,It
 
 ---
 spring:
-  profiles: subject-1
+  profiles: lab-4-subject
 words: ran,knew,had,saw,bought
 
